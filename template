@@ -5,5 +5,5 @@ Resources:
       CidrBlock: 10.3.0.0/16
       Tags:
       - Key: Name
-        Value: vpc-template
+        Value: uchikado-vpc-01
 # update by uchikado
